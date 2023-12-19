@@ -1,0 +1,6 @@
+D:\学习资料\大四\数字通信系统\fsk\FSK\Debug\FSK.exe
+D:\学习资料\大四\数字通信系统\fsk\FSK_v1.1\Debug\FSK.exe
+D:\Desktop\FSK源\Debug\FSK.exe
+D:\desktop\数字通信系统课程设计\FSK源\Debug\FSK.exe
+D:\desktop\作业\数字通信系统课程设计\FSK源\Debug\FSK.exe
+C:\Users\Administrator\Desktop\FSK源\Debug\FSK.exe
